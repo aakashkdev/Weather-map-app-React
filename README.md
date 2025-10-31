@@ -1,20 +1,72 @@
-<<<<<<< HEAD
-# React + Vite
+🌦️ Weather Map App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive weather app built using React, Vite, Tailwind CSS, Leaflet, and OpenWeatherMap API.
+Search any city to see its real-time weather data and location on map dynamically.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://aakashkdev.github.io/Weather-map-app-React/
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔍 Search any city worldwide
 
-## Expanding the ESLint configuration
+🗺️ Interactive map (Leaflet)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Weather-map-app-React
->>>>>>> 806f2e65cf6ef22e651a6a19c2497488abd2b72d
+📍 Dynamic marker & map movement
+
+🌦️ Real-time temperature, weather condition, and icons
+
+🎨 Beautiful gradient UI with Tailwind CSS
+
+⚡ Built with modern React + Vite stack
+
+🧰 Tech Stack
+
+React + Vite
+
+Tailwind CSS
+
+React Leaflet
+
+React Icons
+
+OpenWeatherMap API
+
+⚙️ Setup & Installation
+1️⃣ Clone the repository
+git clone https://github.com/aakashkdev/Weather-map-app-React.git
+cd Weather-map-app-React
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Add OpenWeather API Key
+
+Create a .env file in the root folder:
+
+VITE_WEATHER_API_KEY=your_openweather_api_key
+
+4️⃣ Run in development
+npm run dev
+
+5️⃣ Build for production
+npm run build
+
+6️⃣ Deploy to GitHub Pages
+npm run deploy
+
+🖼️ Preview
+
+Screenshot replace kar do apne app ka screenshot link ke saath.
+
+🌐 Live Demo
+
+https://aakashkdev.github.io/Weather-map-app-React/
+
+👨‍💻 Author
+
+Aakash Kumar
+🌐 GitHub Profile
+
+💬 Created with ❤️ using React + Tailwind + Leaflet
