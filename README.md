@@ -58,7 +58,6 @@ npm run deploy
 
 🖼️ Preview
 
-Screenshot replace kar do apne app ka screenshot link ke saath.
 
 🌐 Live Demo
 
